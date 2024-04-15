@@ -1,0 +1,6 @@
+venv/
+.idea/
+
+memory_profiler.log
+mock_data.db
+output.csv
